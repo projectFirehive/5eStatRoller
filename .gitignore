@@ -34,11 +34,13 @@
 *.exe
 *.out
 *.app
+!statRoller2.exe
 
 ### CodeBlocks ###
 # specific to CodeBlocks IDE
 *.layout
 *.depend
+*.save
 # generated directories
 bin/
 obj/
